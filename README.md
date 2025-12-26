@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=ALOK%20SINGH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SDET%20|%20Automation%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/alok2837">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=900&height=45&lines=SDET%20%7C%20Playwright%20(JS%2FTS)%20%7C%20Selenium%20(Java)%20%7C%20UI%20%26%20API%20Automation%20%7C%20BDD%20(Cucumber)%20%7C%20CI%2FCD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=900&height=45&lines=SDET%20%7C%20Playwright%20(JS%2FTS)%20%7C%20Selenium%20(Java)%20%7C%20UI%20%26%20API%20%26%20BDD%20%7C%20CI%2FCD" />
 </a>
 
 <p>
