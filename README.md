@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=ALOK%20SINGH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SDET%20|%20Automation%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/alok2837">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=900&height=45&lines=SDET%20%7C%20Playwright%20(JS%2FTS)%20%7C%20Selenium%20(Java)%20%7C%20UI%20%26%20API%20%26%20BDD%20%7C%20CI%2FCD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Playwright%20(JS%2FTS)%20%7C%20Selenium%20(Java)%20%7C%20UI%2C%20API%20%26%20BDD%20%7C%20CI%2FCD" />
 </a>
 
 <p>
@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-SDET with **4+ years of experience** designing, building, and maintaining **scalable test automation frameworks** for web and API applications.
+SDET with **4.4+ years of experience** designing, building, and maintaining **scalable test automation frameworks** for web and API applications.
 
 - 🧪 Strong in **UI & API automation** using **Playwright (JavaScript/TypeScript)** and **Selenium (Java)**
 - 🧱 Designed **automation frameworks from scratch**
@@ -149,18 +149,10 @@ Kalinga Institute of Industrial Technology, Bhubaneswar
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok2837&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 What I’m Looking For
 
-- **SDET / QA Automation Engineer** roles
-- Playwright-focused automation teams
+- **Senior SDET / Lead QE Engineer** roles
+- Playwright-focused automation teams/roles
 - Strong engineering culture with CI-driven testing
 - Opportunities to build and improve test frameworks
 
@@ -169,17 +161,31 @@ Kalinga Institute of Industrial Technology, Bhubaneswar
 ## 🤝 Let’s Connect
 
 <p align="center">
+
+📧 <b>Email</b>: <a href="mailto:alok2837@gmail.com">alok2837@gmail.com</a> &nbsp; | &nbsp;
+📱 <b>Phone</b>: <a href="tel:+918809772731">+91-8809772731</a> &nbsp; | &nbsp;
+💼 <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/alok2837/">linkedin.com/in/alok2837</a> &nbsp; | &nbsp;
+💻 <b>GitHub</b>: <a href="https://github.com/alok2837">github.com/alok2837</a>
+
+</p>
+
+<p align="center">
+  <a href="mailto:alok2837@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alok2837/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>      
   <a href="https://github.com/alok2837">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%" />
 
-⭐ From **alok2837** with ❤️
+⭐ From **Alok Singh** with ❤️
 
 </div>
