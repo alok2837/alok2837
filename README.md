@@ -29,18 +29,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok2837&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
-🏢 **VRIZE**
+Experienced and detail-oriented Test Engineer with over 4 years of experience in software quality assurance and test automation. Specialized in using JavaScript, TypeScript, and Playwright to build robust automated test suites for web applications, ensuring high-quality user experiences. Proficient in Playwright, UI Automation, API Automation, Cucumber-BDD, and functional testing techniques. Also experienced in Java, and Selenium, with strong knowledge of Playwright framework design to create efficient and scalable test automation strategies. Adept at designing comprehensive test plans that enhance product reliability, streamline release cycles, and drive user satisfaction. Committed to continuously improving testing processes and contributing to the overall success of software products.
 
-📍 **Bangalore , India**
-
-
-🔭 Currently working on **[Core-Java-Practice](https://github.com/alok2837/Core-Java-Practice)**
-
-
-
-
-
-📦 **4** repositories | ⭐ **1** stars
 
 <br clear="right"/>
 
@@ -73,28 +63,38 @@
 <td valign="top" width="33%">
 
 <h3 align="center">🧪 Testing & QA</h3>
-<br/>
 <div align="center">
-<em>No testing skills selected</em>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cucumber-23D160?style=for-the-badge&logo=cucumber&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rest_Assured-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white"/>
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-<h3 align="center">💻 Development</h3>
-<br/>
+<h3 align="center">💻 Languages</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 </td>
 <td valign="top" width="33%">
 
 <h3 align="center">⚙️ DevOps & Tools</h3>
-<br/>
 <div align="center">
-<em>No DevOps skills selected</em>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
 </div>
 
 </td>
@@ -102,7 +102,63 @@
 </table>
 
 
+
 ---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Office%20Worker.png" alt="Office Worker" width="30" height="30" /> Experience
+
+### **Quality Engineer** | *Vrize India Private Limited*
+*December 2021 - Present | Bengaluru, India*
+
+- Developed and maintained automated test scripts using Java and Selenium WebDriver, resulting in a **30% reduction in manual testing efforts**.
+- Designed and implemented a **Playwright-based test automation framework** for an e-commerce healthcare website, incorporating **Cucumber-BDD**.
+- Built an entire test automation framework from scratch for a retail chain e-commerce platform using **Playwright, JavaScript, and JSON**.
+- Utilized Cucumber-BDD for behaviour-driven testing to ensure clear communication of test scenarios.
+- Performed **UI Automation, API Automation, and functional testing** across multiple releases.
+- Led efforts in **API testing using Postman** to validate RESTful APIs.
+- Integrated automated test scripts into **CI/CD pipelines using Jenkins**.
+- Collaborated with cross-functional teams for troubleshooting and bug resolution.
+- Actively participated in Agile processes (Sprint planning, daily stand-ups, retrospectives).
+
+### **Software Engineer Trainee** | *Vrize India Private Limited*
+*September 2021 - November 2021 | Bengaluru, India*
+
+- Gained familiarity with SDLC, STLC, and code reviews.
+- Proficient in identifying, reporting, and managing software defects using **Jira**.
+- Created and maintained detailed testing documentation (Test plans, test cases).
+- Collaborated with senior engineers to learn various testing methodologies and tools.
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World" width="30" height="30" /> Professional Projects
+
+### **Recovery for Athletes**
+*[recoveryforathletes.com](https://www.recoveryforathletes.com/)* | *April 2020 - July 2021*
+
+- Performed **Manual testing and API testing** ensuring functionality and reliability.
+- Utilized **Postman** for API testing, validating endpoints, data accuracy, and authentication.
+- Contributed to improving the overall quality and user experience through rigorous testing.
+- Collaborated closely with stakeholders to deliver tailored solutions.
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation" width="30" height="30" /> Education
+
+**B.Tech in Electronics & Telecommunication Engineering**
+*Kalinga Institute of Industrial Technology, Bhubaneswar*
+2021 | **7.82 CGPA**
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Certificate" width="30" height="30" /> Certifications
+
+- **Playwright Automation Testing**
+- **JavaScript Developer Course**
+- **Selenium WebDriver with TestNG**
+- **Core Java**
+
+---
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
 
@@ -226,5 +282,6 @@
 **⭐ From [alok2837](https://github.com/alok2837) with ❤️**
 
 </div>
-#   a l o k 2 8 3 7  
+#   a l o k 2 8 3 7 
+ 
  
