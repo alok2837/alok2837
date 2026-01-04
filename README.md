@@ -62,36 +62,55 @@ SDET with **4.4+ years of experience** designing, building, and maintaining **sc
 
 ## 🚀 Featured Projects
 
-### 🧪 Automation – The Internet
-🔗 https://github.com/alok2837/Automation_The-Internet
+### 🧪 Playwright Automation – JCP App  
+🔗 https://github.com/alok2837/Plawright_JCP-App-Testing  
 
 - End-to-end UI automation using **Playwright + JavaScript**
-- Implements **Page Object Model**
-- Covers dynamic UI elements, alerts, file uploads
-- Designed for scalability and maintainability
+- Implements **Page Object Model (POM)** for maintainability
+- Covers real-world user flows and edge cases
+- Accelerated using **AI-assisted test generation & refactoring**
 
-**Tech:** Playwright | JavaScript | HTML
-
----
-
-### 🧪 Automation Practice Framework
-🔗 https://github.com/alok2837/Automation_Practice
-
-- Selenium-based UI automation framework using **Java**
-- Structured test cases with **TestNG**
-- Demonstrates reusable utilities and test design patterns
-
-**Tech:** Selenium | Java | TestNG
+**Tech:** Playwright | JavaScript | Node.js | AI-assisted Testing
 
 ---
 
-### 🧪 Automation – MyStore
-🔗 https://github.com/alok2837/Automation_MyStore
+### 🧪 Playwright Automation – RSB App  
+🔗 https://github.com/alok2837/Plawright_RSB-App-Testing  
 
-- UI automation project focused on e-commerce flows
-- Covers login, product navigation, and checkout scenarios
+- Modern automation framework for dynamic web applications
+- Robust handling of waits, assertions, and flaky scenarios
+- Designed for **CI/CD-friendly execution**
+- Leveraging **agentic AI** for faster test creation and debugging
 
-**Tech:** Selenium | Java | HTML
+**Tech:** Playwright | JavaScript | CI/CD | Agentic AI
+
+---
+
+### 📱 React Native – Athletes Clone App  
+🔗 https://github.com/alok2837/ReactNative_AthletesClone-App-Development  
+
+- Cross-platform mobile application built with **React Native**
+- Focus on UI components, navigation, and state management
+
+**Tech:** React Native | JavaScript
+
+---
+
+### 💰 Ruby on Rails – Finance Tracker App  
+🔗 https://github.com/alok2837/RubyOnRails_FinanceTracker-App-Development  
+
+- Full-stack web application following **MVC architecture**
+- Implements authentication and CRUD operations
+
+**Tech:** Ruby on Rails | Ruby | PostgreSQL
+
+---
+
+### 🤖 AI in Test Automation (Edge)
+
+- AI agents used for **test generation, refactoring, and flaky test analysis**
+- ~**50% productivity improvement** in automation workflows
+- Faster feedback cycles with reduced maintenance effort
 
 ---
 
