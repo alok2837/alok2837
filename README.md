@@ -184,6 +184,7 @@ Kalinga Institute of Industrial Technology, Bhubaneswar
 📧 <b>Email</b>: <a href="mailto:alok2837@gmail.com">alok2837@gmail.com</a> &nbsp; | &nbsp;
 📱 <b>Phone</b>: <a href="tel:+918809772731">+91-8809772731</a> &nbsp; | &nbsp;
 💼 <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/alok2837/">linkedin.com/in/alok2837</a> &nbsp; | &nbsp;
+    <b>Website</b>: <a href="https://alok2837.github.io/alok2837/">Alok's Portfolio</a> &nbsp; |&nbsp;
 💻 <b>GitHub</b>: <a href="https://github.com/alok2837">github.com/alok2837</a>
 
 </p>
