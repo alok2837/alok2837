@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-SDET with **4.5+ years of experience** designing, building, and maintaining **scalable test automation frameworks** for web and API applications.
+SDET with **4.8+ years of experience** designing, building, and maintaining **scalable test automation frameworks** for web and API applications.
 
 - 🧪 Strong in **UI & API automation** using **Playwright (JavaScript/TypeScript)** and **Selenium (Java)**
 - 🧱 Designed **automation frameworks from scratch**
@@ -106,7 +106,7 @@ SDET with **4.5+ years of experience** designing, building, and maintaining **sc
 
 ---
 
-### 🤖 AI in Test Automation (Edge)
+### 🤖 AI in Test Automation
 
 - AI agents used for **test generation, refactoring, and flaky test analysis**
 - ~**50% productivity improvement** in automation workflows
