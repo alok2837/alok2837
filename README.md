@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-SDET with **4.8+ years of experience** designing, building, and maintaining **scalable test automation frameworks** for web and API applications.
+SDET with **5+ years of experience** designing, building, and maintaining **scalable test automation frameworks** for web and API applications.
 
 - 🧪 Strong in **UI & API automation** using **Playwright (JavaScript/TypeScript)** and **Selenium (Java)**
 - 🧱 Designed **automation frameworks from scratch**
